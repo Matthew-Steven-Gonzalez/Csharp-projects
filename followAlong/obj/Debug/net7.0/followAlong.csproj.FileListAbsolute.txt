@@ -1,0 +1,5 @@
+/Users/muffins/CSharp/Csharp-projects/followAlong/obj/Debug/net7.0/followAlong.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/followAlong/obj/Debug/net7.0/followAlong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/followAlong/obj/Debug/net7.0/followAlong.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/followAlong/obj/Debug/net7.0/followAlong.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/followAlong/obj/Debug/net7.0/followAlong.csproj.CoreCompileInputs.cache
