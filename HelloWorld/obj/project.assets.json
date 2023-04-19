@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj",
+      "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects-1/HelloWorld/LearnCS.csproj",
       "projectName": "LearnCS",
-      "projectPath": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj",
+      "projectPath": "/Users/muffins/CSharp/Csharp-projects-1/HelloWorld/LearnCS.csproj",
       "packagesPath": "/Users/muffins/.nuget/packages/",
-      "outputPath": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/obj/",
+      "outputPath": "/Users/muffins/CSharp/Csharp-projects-1/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muffins/.nuget/NuGet/NuGet.Config"

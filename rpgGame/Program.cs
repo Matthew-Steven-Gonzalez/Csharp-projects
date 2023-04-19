@@ -38,8 +38,15 @@ namespace HallsOfWestWood
             Console.Clear();
             Console.WriteLine(lineBreak);
             Console.WriteLine("Ahead of you is 2 halls.");
-            Console.WriteLine("On the left is a dark hall with candles barely illuminating a neverending hall.");
+            Console.WriteLine("On the left is a dark hall with candles barely illuminating a never-ending hall.");
+            Console.WriteLine("On the right is a door with swords crossed overhead and what appears to be blood splater across the door.");
+            Console.WriteLine("Which route do you take...");
+            Console.WriteLine(lineBreak);
+            string choice1 = Console.ReadLine();
 
+            if(choice1 == "left"){
+                
+            }
             
 
 
