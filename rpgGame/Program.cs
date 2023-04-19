@@ -10,12 +10,6 @@ namespace HallsOfWestWood
     {
         public static Player currentPlayer = new Player();
 
-        public static Enemy wereWolf1 = new Enemy();
-
-        public static Enemy wereWolf2 = new Enemy();
-
-        public static Enemy werewolf3 = new
-
         static void Main(string[] args)
         {
             Start();
@@ -42,8 +36,9 @@ namespace HallsOfWestWood
             Console.WriteLine(lineBreak);
             Console.ReadKey();
             Console.Clear();
+            Console.WriteLine(lineBreak);
             Console.WriteLine("Ahead of you is 2 halls.");
-            Console.WriteLine("On the left is a dark hall with candles barely illuminating a neverending hall.")
+            Console.WriteLine("On the left is a dark hall with candles barely illuminating a neverending hall.");
 
             
 
