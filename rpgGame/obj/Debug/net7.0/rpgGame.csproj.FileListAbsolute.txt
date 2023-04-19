@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/rpgGame/bin/Debug/net7.0/rpgGame
+/Users/muffins/CSharp/Csharp-projects/rpgGame/bin/Debug/net7.0/rpgGame.deps.json
+/Users/muffins/CSharp/Csharp-projects/rpgGame/bin/Debug/net7.0/rpgGame.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/rpgGame/bin/Debug/net7.0/rpgGame.dll
+/Users/muffins/CSharp/Csharp-projects/rpgGame/bin/Debug/net7.0/rpgGame.pdb
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.dll
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/refint/rpgGame.dll
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.pdb
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/Debug/net7.0/ref/rpgGame.dll
