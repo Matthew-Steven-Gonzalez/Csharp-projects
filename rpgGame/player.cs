@@ -14,5 +14,6 @@ namespace HallsOfWestWood
         public int damage = 2;
         public int armorValue = 0;
         public int potions = 5;
+        public int keys = 1;
     }
 }
