@@ -8,8 +8,13 @@ namespace HallsOfWestWood
 {
     class Encounters
     {
+        private static readonly Random rand = new Random();
 
-        Static Random rand = new Random();
+        public static string titleCard = "___________Halls_Of_WestWood_____________";
+        public static string lineBreak = "_________________________________________";
+        public static string emptyBreak= "                                         ";
+
+        
 
         // Encounter Generic
 
@@ -17,15 +22,20 @@ namespace HallsOfWestWood
         // Encounters
         public static void hallFight()
         {
+            Console.WriteLine(titleCard);
+            Console.WriteLine(lineBreak);
+            Console.WriteLine(emptyBreak);
             Console.WriteLine("Before you stands a large beast. Covered head to foot in fur with patches of blood in his coat.");
             Console.WriteLine(" You begin combat with it...");
-            COnsole.ReadKey();
+            Console.ReadKey();
+            Combat(false, "werewolf", 2, 10);
         }
 
     
         // Encounter Tools 
         public static void Combat(bool random, string name, int power, int health)
         {
+            
             string n = "";
             int p = 0;
             int h = 0;
@@ -42,19 +52,24 @@ namespace HallsOfWestWood
                 h = health;
             }
   
-            while(health > 0 )
+            while(h > 0 )
             {
+                Console.Clear();
+                Console.WriteLine(titleCard);
+                Console.WriteLine(lineBreak);
+                Console.WriteLine(n);
+                Console.WriteLine(p + " / " + h);
                 Console.WriteLine("++++++++++++++++++++++++");
                 Console.WriteLine("|  (A)ttack   (D)efend |");
                 Console.WriteLine("|   (R)un      (H)eal  |");
                 Console.WriteLine("++++++++++++++++++++++++");
-                Console.WriteLine(" Potions:  "+ Program.currentPlayer.Potions +"  Health:  " + Program.currentPlayer.health);
-                Console.WriteLine("+++++++++++++++++++ +++++");
-                string input = Console.ReadLine;
+                Console.WriteLine(" Potions:  "+ Program.currentPlayer.potions +"  Health:  " + Program.currentPlayer.health);
+                Console.WriteLine("++++++++++++++++++++++++");
+                string input = Console.ReadLine();
                 if(input.ToLower() == "a" || input.ToLower() =="attack")
                 {
                     // Attack
-                    Console.WriteLine("You strike the "+ n + ", however they strike back")
+                    Console.WriteLine("You strike the "+ n + ", however they strike back");
                     int enemyDamage = p - Program.currentPlayer.armorValue;
                     if(enemyDamage < 0)
                     {
@@ -64,12 +79,12 @@ namespace HallsOfWestWood
                     int playerDamage = rand.Next(0, Program.currentPlayer.weaponValue) + rand.Next(1, 4);
                     Console.WriteLine("You deal " + Program.currentPlayer.damage + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
                     Program.currentPlayer.health -= enemyDamage;
-                    h- = playerDamage; 
+                    h -= playerDamage; 
                 }
                 else if(input.ToLower() == "d" || input.ToLower() =="defend")
                 {
                     // defend
-                    Console.WriteLine("You defend yourself from the "+ n + ", however they still strike you")
+                    Console.WriteLine("You defend yourself from the "+ n + ", however they still strike you");
                     int enemyDamage = p/4 - Program.currentPlayer.armorValue;
                     if(enemyDamage < 0)
                     {
@@ -79,7 +94,7 @@ namespace HallsOfWestWood
                     int playerDamage = rand.Next(0, Program.currentPlayer.weaponValue)/2;
                     Console.WriteLine("You deal " + Program.currentPlayer.damage + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
                     Program.currentPlayer.health -= enemyDamage;
-                    h- = playerDamage;
+                    h -= playerDamage;
                 }
                 else if(input.ToLower() == "r" || input.ToLower() =="run")
                 {
@@ -93,7 +108,7 @@ namespace HallsOfWestWood
                     }
                     else
                     {
-                        Console.WriteLine("Your quickfootedness pays off you get away from the " + n+ ".")
+                        Console.WriteLine("Your quickfootedness pays off you get away from the " + n+ ".");
                         Console.ReadKey();
                         // Continue through castle
                     }
@@ -115,12 +130,19 @@ namespace HallsOfWestWood
                     }
                     else
                     {
-                        Console.WriteLine("You reach into the bag and pull out a poition.")
+                        Console.WriteLine("You reach into the bag and pull out a poition.");
+                        Program.currentPlayer.health += 5;
                     }
                 }
 
                 Console.ReadKey();
             }
+            Console.WriteLine(titleCard);
+            Console.WriteLine(lineBreak);
+            Console.WriteLine(emptyBreak);
+            Console.WriteLine("You have Defeated a " + n);
+            Console.WriteLine(lineBreak);
+            Console.WriteLine(emptyBreak);
         }
         
     }

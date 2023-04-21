@@ -8,6 +8,7 @@ namespace HallsOfWestWood
 {
     class Player
     {
+        public string location;
         public string name;
         public int coins = 0;
         public int health = 15;

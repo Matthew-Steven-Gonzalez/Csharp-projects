@@ -13,6 +13,7 @@ namespace HallsOfWestWood
         static void Main(string[] args)
         {
             Start();
+            Encounters.hallFight();
         }
 
 
