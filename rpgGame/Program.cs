@@ -49,7 +49,8 @@ namespace HallsOfWestWood
             string choice1 = Console.ReadLine();
             Console.Clear();
 
-            if(choice1 == "right"){
+            if(choice1 == "right")
+            {    
                 Console.WriteLine("You reach out for the cold steel of the handle on the door and tug.");
                 if(currentPlayer.keys >= 1)
                 {
@@ -62,6 +63,7 @@ namespace HallsOfWestWood
                 }
                 else
                 {
+                    Console.Clear();
                     Console.WriteLine(titleCard);
                     Console.WriteLine(lineBreak);
                     Console.WriteLine("You see a keyhole , but currently have no keys...");
@@ -70,6 +72,17 @@ namespace HallsOfWestWood
                     Console.Clear();
 
                 }
+            }
+            else if(choice1.ToLower() == "left")
+            {
+                Console.Clear();
+                    Console.WriteLine(titleCard);
+                    Console.WriteLine(lineBreak);
+                    Console.WriteLine("You slowly begin walking down the hall.");
+                    Console.WriteLine("a creaking noise ahead causes the hair to raise on your neck... It's about to get hairy...");
+                    Console.WriteLine(lineBreak);
+                    Console.ReadKey();
+                    Console.Clear();
             }
             
 

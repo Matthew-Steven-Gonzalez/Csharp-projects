@@ -1,0 +1,127 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HallsOfWestWood
+{
+    class Encounters
+    {
+
+        Static Random rand = new Random();
+
+        // Encounter Generic
+
+
+        // Encounters
+        public static void hallFight()
+        {
+            Console.WriteLine("Before you stands a large beast. Covered head to foot in fur with patches of blood in his coat.");
+            Console.WriteLine(" You begin combat with it...");
+            COnsole.ReadKey();
+        }
+
+    
+        // Encounter Tools 
+        public static void Combat(bool random, string name, int power, int health)
+        {
+            string n = "";
+            int p = 0;
+            int h = 0;
+    
+            if(random)
+            {
+
+            }
+
+            else
+            {
+                n = name;
+                p = power;
+                h = health;
+            }
+  
+            while(health > 0 )
+            {
+                Console.WriteLine("++++++++++++++++++++++++");
+                Console.WriteLine("|  (A)ttack   (D)efend |");
+                Console.WriteLine("|   (R)un      (H)eal  |");
+                Console.WriteLine("++++++++++++++++++++++++");
+                Console.WriteLine(" Potions:  "+ Program.currentPlayer.Potions +"  Health:  " + Program.currentPlayer.health);
+                Console.WriteLine("+++++++++++++++++++ +++++");
+                string input = Console.ReadLine;
+                if(input.ToLower() == "a" || input.ToLower() =="attack")
+                {
+                    // Attack
+                    Console.WriteLine("You strike the "+ n + ", however they strike back")
+                    int enemyDamage = p - Program.currentPlayer.armorValue;
+                    if(enemyDamage < 0)
+                    {
+                        enemyDamage = 0;
+                    
+                    }
+                    int playerDamage = rand.Next(0, Program.currentPlayer.weaponValue) + rand.Next(1, 4);
+                    Console.WriteLine("You deal " + Program.currentPlayer.damage + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
+                    Program.currentPlayer.health -= enemyDamage;
+                    h- = playerDamage; 
+                }
+                else if(input.ToLower() == "d" || input.ToLower() =="defend")
+                {
+                    // defend
+                    Console.WriteLine("You defend yourself from the "+ n + ", however they still strike you")
+                    int enemyDamage = p/4 - Program.currentPlayer.armorValue;
+                    if(enemyDamage < 0)
+                    {
+                        enemyDamage = 0;
+                    
+                    }
+                    int playerDamage = rand.Next(0, Program.currentPlayer.weaponValue)/2;
+                    Console.WriteLine("You deal " + Program.currentPlayer.damage + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
+                    Program.currentPlayer.health -= enemyDamage;
+                    h- = playerDamage;
+                }
+                else if(input.ToLower() == "r" || input.ToLower() =="run")
+                {
+                    // Run
+                    if(rand.Next(0,2) == 0)
+                    {
+                        Console.WriteLine("You run from the "+ n +" You slip exposing yourself to damage.");
+                        int enemyDamage = p - Program.currentPlayer.armorValue;
+                        Console.WriteLine("You lose "+ enemyDamage + "Health.");
+                        Console.ReadKey();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Your quickfootedness pays off you get away from the " + n+ ".")
+                        Console.ReadKey();
+                        // Continue through castle
+                    }
+                }
+
+                else if(input.ToLower() == "h" || input.ToLower() =="heal")
+                {
+                    // heal
+                    if(Program.currentPlayer.potions == 0)
+                    {
+                        Console.WriteLine("You reach for a potion, but Oh NO you don't have any.");
+                        int enemyDamage = p - Program.currentPlayer.armorValue;
+                        if(enemyDamage < 0)
+                        {
+                            enemyDamage = 0;
+                        
+                        }
+                        Console.WriteLine("The " + n + "strikes you for " + enemyDamage + ", Oh that hurt.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("You reach into the bag and pull out a poition.")
+                    }
+                }
+
+                Console.ReadKey();
+            }
+        }
+        
+    }
+}
