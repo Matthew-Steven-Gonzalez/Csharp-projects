@@ -10,6 +10,9 @@ namespace NumberGuessingGame
     {
         static void Main(string[] args)
         {
+            string topFill =    "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
+
+            string bottomFill = "_______________________________________________";
 
             Random r = new Random();
 
@@ -17,11 +20,12 @@ namespace NumberGuessingGame
 
             bool win = false;
 
-             Console.WriteLine("Guess a Number inbetween 0 and 100...");
 
 
             do
             {
+                    Console.WriteLine("Guess a Number inbetween 0 and 100...");
+
                     string s = Console.ReadLine();
 
                     int i = int.Parse(s);
@@ -29,19 +33,26 @@ namespace NumberGuessingGame
                     if(i > winNum)
                     {
                         Console.WriteLine("That number is too high...guess again.");
-                        Console.ReadKey();
+                        Console.WriteLine(topFill);
+                        Console.WriteLine("Guess Again...");
+                        Console.WriteLine(bottomFill);
+
+
                     }
                     else if(i < winNum) 
                     {
                         Console.WriteLine("That number is too low...guess again...");
-                         Console.ReadKey();
-
+                        Console.WriteLine(topFill);
+                        Console.WriteLine("Guess Again...");
+                        Console.WriteLine(bottomFill);
                     }
                     else if(i == winNum)
                     {
+                        Console.WriteLine(topFill);
                         Console.WriteLine("Congratulations you have guessed the right number...");
                         win = true;
                     }
+                    Console.WriteLine();
                 } while (win == false);
             }
         }
