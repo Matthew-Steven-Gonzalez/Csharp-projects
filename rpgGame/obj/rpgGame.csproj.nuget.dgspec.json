@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muffins/CSharp/Csharp-projects-1/rpgGame/rpgGame.csproj": {}
+    "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj": {}
   },
   "projects": {
-    "/Users/muffins/CSharp/Csharp-projects-1/rpgGame/rpgGame.csproj": {
+    "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects-1/rpgGame/rpgGame.csproj",
+        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
         "projectName": "rpgGame",
-        "projectPath": "/Users/muffins/CSharp/Csharp-projects-1/rpgGame/rpgGame.csproj",
+        "projectPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
         "packagesPath": "/Users/muffins/.nuget/packages/",
-        "outputPath": "/Users/muffins/CSharp/Csharp-projects-1/rpgGame/obj/",
+        "outputPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/muffins/.nuget/NuGet/NuGet.Config"
