@@ -52,7 +52,7 @@ namespace HallsOfWestWood
                 h = health;
             }
   
-            while(h > 0 )
+            while(h > 0 || Program.currentPlayer.health == 0 )
             {
                 Console.Clear();
                 Console.WriteLine(titleCard);
@@ -65,8 +65,8 @@ namespace HallsOfWestWood
                 Console.WriteLine("++++++++++++++++++++++++");
                 Console.WriteLine(" Potions:  "+ Program.currentPlayer.potions +"  Health:  " + Program.currentPlayer.health);
                 Console.WriteLine("++++++++++++++++++++++++");
-                string input = Console.ReadLine();
-                if(input.ToLower() == "a" || input.ToLower() =="attack")
+                String? input = Console.ReadLine();
+                if( input != null && input.ToLower() == "a" || input != null && input.ToLower() =="attack")
                 {
                     // Attack
                     Console.WriteLine("You strike the "+ n + ", however they strike back");
@@ -81,7 +81,7 @@ namespace HallsOfWestWood
                     Program.currentPlayer.health -= enemyDamage;
                     h -= playerDamage; 
                 }
-                else if(input.ToLower() == "d" || input.ToLower() =="defend")
+                else if(input != null && input.ToLower() == "d" || input != null && input.ToLower() =="defend")
                 {
                     // defend
                     Console.WriteLine("You defend yourself from the "+ n + ", however they still strike you");
@@ -96,7 +96,7 @@ namespace HallsOfWestWood
                     Program.currentPlayer.health -= enemyDamage;
                     h -= playerDamage;
                 }
-                else if(input.ToLower() == "r" || input.ToLower() =="run")
+                else if(input != null && input.ToLower() == "r" || input != null && input.ToLower() =="run")
                 {
                     // Run
                     if(rand.Next(0,2) == 0)
@@ -114,7 +114,7 @@ namespace HallsOfWestWood
                     }
                 }
 
-                else if(input.ToLower() == "h" || input.ToLower() =="heal")
+                else if(input != null && input.ToLower() == "h" || input != null && input.ToLower() =="heal")
                 {
                     // heal
                     if(Program.currentPlayer.potions == 0)
