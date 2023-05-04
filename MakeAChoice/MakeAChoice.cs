@@ -23,7 +23,7 @@ public class MakeAChoice
         
 
 
-        string UI = Console.ReadLine();
+        string? UI = Console.ReadLine();
 
         int choice = Convert.ToInt32(UI);
 
