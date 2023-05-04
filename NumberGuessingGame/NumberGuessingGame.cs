@@ -26,7 +26,7 @@ namespace NumberGuessingGame
             {
                     Console.WriteLine("Guess a Number inbetween 0 and 100...");
 
-                    string s = Console.ReadLine();
+                    string? s = Console.ReadLine();
 
                     int i = int.Parse(s);
 
