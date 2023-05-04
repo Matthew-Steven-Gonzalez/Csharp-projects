@@ -58,7 +58,7 @@ namespace HallsOfWestWood
                 Console.WriteLine(titleCard);
                 Console.WriteLine(lineBreak);
                 Console.WriteLine(n);
-                Console.WriteLine(p + " / " + h);
+                Console.WriteLine(h);
                 Console.WriteLine("++++++++++++++++++++++++");
                 Console.WriteLine("|  (A)ttack   (D)efend |");
                 Console.WriteLine("|   (R)un      (H)eal  |");
