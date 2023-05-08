@@ -8,24 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/muffins/.nuget/packages/": {}
+    "C:\\Users\\mnome\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
+      "projectUniqueName": "C:\\Users\\mnome\\source\\repos\\Matthew-Steven-Gonzalez\\Csharp-projects\\rpgGame\\rpgGame.csproj",
       "projectName": "rpgGame",
-      "projectPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
-      "packagesPath": "/Users/muffins/.nuget/packages/",
-      "outputPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/",
+      "projectPath": "C:\\Users\\mnome\\source\\repos\\Matthew-Steven-Gonzalez\\Csharp-projects\\rpgGame\\rpgGame.csproj",
+      "packagesPath": "C:\\Users\\mnome\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mnome\\source\\repos\\Matthew-Steven-Gonzalez\\Csharp-projects\\rpgGame\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/muffins/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mnome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
