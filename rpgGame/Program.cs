@@ -86,20 +86,32 @@ namespace HallsOfWestWood
                 Console.WriteLine(titleCard2);
                 Console.WriteLine("||        You reach out for the cold steel of the         ||");
                 Console.WriteLine("||                 handle on the door.                    ||");
-                if(currentPlayer.keys >= 1)
+                Console.WriteLine(titleCard2);
+                Console.WriteLine(titleCard5);
+                if (currentPlayer.keys >= 1)
                 {
-                    
+                    Console.WriteLine(titleCard1);
+                    Console.WriteLine(titleCard3);
+                    Console.WriteLine(titleCard5);
+                    Console.WriteLine(titleCard2);
                     Console.WriteLine("You insert the key you found into the door and turn...You hear a click...");
-                    
+                    Console.WriteLine(titleCard2);
+                    Console.WriteLine(titleCard5);
+
                     Console.ReadKey();
                     Console.Clear();
                 }
                 else
                 {
                     Console.Clear();
-                    
+                    Console.WriteLine(titleCard1);
+                    Console.WriteLine(titleCard3);
+                    Console.WriteLine(titleCard5);
+                    Console.WriteLine(titleCard2);
                     Console.WriteLine("You see a keyhole , but currently have no keys...");
-                    
+                    Console.WriteLine(titleCard2);
+                    Console.WriteLine(titleCard5);
+
                     Console.ReadKey();
                     Console.Clear();
 
@@ -108,10 +120,16 @@ namespace HallsOfWestWood
             else if(choice1 != null && choice1.ToLower() == "left")
             {
                 Console.Clear();
-                
+
+                Console.WriteLine(titleCard1);
+                Console.WriteLine(titleCard3);
+                Console.WriteLine(titleCard5);
+                Console.WriteLine(titleCard2);
                 Console.WriteLine("You slowly begin walking down the hall.");
                 Console.WriteLine("a creaking noise ahead causes the hair to raise on your neck... It's about to get hairy...");
-                
+                Console.WriteLine(titleCard2);
+                Console.WriteLine(titleCard5);
+
                 Console.ReadKey();
                 Console.Clear();
                 Encounters.hallFight();

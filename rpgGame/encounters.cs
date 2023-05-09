@@ -10,11 +10,13 @@ namespace HallsOfWestWood
     {
         private static readonly Random rand = new Random();
 
-        public static string titleCard = "___________Halls_Of_WestWood_____________";
-        public static string lineBreak = "_________________________________________";
-        public static string emptyBreak= "                                         ";
+        string titleCard1 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
+        string titleCard2 = "||                                                        ||";
+        string titleCard3 = "||                    Halls Of WestWood                   ||";
+        string titleCard4 = "||                    ~~~~~~~~~~~~~~~~~                   ||";
+        string titleCard5 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
 
-        
+
 
         // Encounter Generic
 
@@ -22,7 +24,7 @@ namespace HallsOfWestWood
         // Encounters
         public static void hallFight()
         {
-            Console.WriteLine(titleCard);
+            Console.WriteLine(titleCard1);
             Console.WriteLine(lineBreak);
             Console.WriteLine(emptyBreak);
             Console.WriteLine("Before you stands a large beast. Covered head to foot in fur with patches of blood in his coat.");
