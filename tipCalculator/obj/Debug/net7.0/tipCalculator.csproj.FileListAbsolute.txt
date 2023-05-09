@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/bin/Debug/net7.0/tipCalculator
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/bin/Debug/net7.0/tipCalculator.deps.json
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/bin/Debug/net7.0/tipCalculator.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/bin/Debug/net7.0/tipCalculator.dll
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/bin/Debug/net7.0/tipCalculator.pdb
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.dll
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/refint/tipCalculator.dll
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.pdb
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/tipCalculator.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/tipCalculator/obj/Debug/net7.0/ref/tipCalculator.dll
