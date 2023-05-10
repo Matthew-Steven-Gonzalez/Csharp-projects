@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/Calculator/bin/Debug/net7.0/Calculator
+/Users/muffins/CSharp/Csharp-projects/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/muffins/CSharp/Csharp-projects/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/muffins/CSharp/Csharp-projects/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/Calculator/obj/Debug/net7.0/ref/Calculator.dll
