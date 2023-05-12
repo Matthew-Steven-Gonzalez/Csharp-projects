@@ -10,11 +10,11 @@ namespace HallsOfWestWood
     {
         private static readonly Random rand = new Random();
 
-        string titleCard1 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
-        string titleCard2 = "||                                                        ||";
-        string titleCard3 = "||                    Halls Of WestWood                   ||";
-        string titleCard4 = "||                    ~~~~~~~~~~~~~~~~~                   ||";
-        string titleCard5 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
+        public string titleCard1 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
+        public string titleCard2 = "||                                                        ||";
+        public string titleCard3 = "||                    Halls Of WestWood                   ||";
+        public string titleCard4 = "||                    ~~~~~~~~~~~~~~~~~                   ||";
+        public string titleCard5 = "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
 
 
 
@@ -25,10 +25,11 @@ namespace HallsOfWestWood
         public static void hallFight()
         {
             Console.WriteLine(titleCard1);
-            Console.WriteLine(lineBreak);
-            Console.WriteLine(emptyBreak);
+            Console.WriteLine(titleCard2);
             Console.WriteLine("Before you stands a large beast. Covered head to foot in fur with patches of blood in his coat.");
             Console.WriteLine(" You begin combat with it...");
+            Console.WriteLine(titleCard2);
+            Console.WriteLine(titleCard1);
             Console.ReadKey();
             Combat(false, "werewolf", 2, 10);
         }
