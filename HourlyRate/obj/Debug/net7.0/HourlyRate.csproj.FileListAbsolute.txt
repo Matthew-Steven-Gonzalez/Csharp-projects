@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/bin/Debug/net7.0/HourlyRate
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/bin/Debug/net7.0/HourlyRate.deps.json
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/bin/Debug/net7.0/HourlyRate.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/bin/Debug/net7.0/HourlyRate.dll
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/bin/Debug/net7.0/HourlyRate.pdb
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.dll
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/refint/HourlyRate.dll
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.pdb
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/HourlyRate.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/HourlyRate/obj/Debug/net7.0/ref/HourlyRate.dll
