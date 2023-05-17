@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Carpet/bin/Debug/net7.0/Carpet
+/Users/muffins/CSharp/Csharp-projects/Carpet/bin/Debug/net7.0/Carpet.deps.json
+/Users/muffins/CSharp/Csharp-projects/Carpet/bin/Debug/net7.0/Carpet.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/Carpet/bin/Debug/net7.0/Carpet.dll
+/Users/muffins/CSharp/Csharp-projects/Carpet/bin/Debug/net7.0/Carpet.pdb
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.dll
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/refint/Carpet.dll
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.pdb
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/Carpet.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/Carpet/obj/Debug/net7.0/ref/Carpet.dll

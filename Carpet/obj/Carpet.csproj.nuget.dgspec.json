@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj": {}
+    "/Users/muffins/CSharp/Csharp-projects/Carpet/Carpet.csproj": {}
   },
   "projects": {
-    "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj": {
+    "/Users/muffins/CSharp/Csharp-projects/Carpet/Carpet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj",
-        "projectName": "LearnCS",
-        "projectPath": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj",
+        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/Carpet/Carpet.csproj",
+        "projectName": "Carpet",
+        "projectPath": "/Users/muffins/CSharp/Csharp-projects/Carpet/Carpet.csproj",
         "packagesPath": "/Users/muffins/.nuget/packages/",
-        "outputPath": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/obj/",
+        "outputPath": "/Users/muffins/CSharp/Csharp-projects/Carpet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/muffins/.nuget/NuGet/NuGet.Config"

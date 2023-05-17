@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQKf5jsX3D4XzKOycWhharZs/9EpUjc5DAtWCbd+4wFNu/W9joWyqJk8aZrNkhsvE2UFr55j5DUQtO4vUH5aGg==",
+  "dgSpecHash": "TdQx7Jf5Q5EkF+Zm/kiCwX/pFXAnll4qx+qFONc5FHKbjgCt4Q6HcCcuOzUXQU6AerlXriILB7sw3k4L5+yLBA==",
   "success": true,
-  "projectFilePath": "/Users/muffins/CSharp/Csharp-projects-1/HelloWorld/LearnCS.csproj",
+  "projectFilePath": "/Users/muffins/CSharp/Csharp-projects/HelloWorld/LearnCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
