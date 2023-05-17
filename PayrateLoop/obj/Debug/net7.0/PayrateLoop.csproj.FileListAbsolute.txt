@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/bin/Debug/net7.0/PayrateLoop
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/bin/Debug/net7.0/PayrateLoop.deps.json
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/bin/Debug/net7.0/PayrateLoop.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/bin/Debug/net7.0/PayrateLoop.dll
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/bin/Debug/net7.0/PayrateLoop.pdb
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.dll
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/refint/PayrateLoop.dll
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.pdb
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/PayrateLoop.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/PayrateLoop/obj/Debug/net7.0/ref/PayrateLoop.dll
