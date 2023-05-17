@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/bin/Debug/net7.0/LawnBusiness
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/bin/Debug/net7.0/LawnBusiness.deps.json
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/bin/Debug/net7.0/LawnBusiness.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/bin/Debug/net7.0/LawnBusiness.dll
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/bin/Debug/net7.0/LawnBusiness.pdb
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.dll
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/refint/LawnBusiness.dll
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.pdb
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/LawnBusiness.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/LawnBusiness/obj/Debug/net7.0/ref/LawnBusiness.dll

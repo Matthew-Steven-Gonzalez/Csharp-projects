@@ -16,7 +16,7 @@ namespace NumberGuessingGame
 
             Random r = new Random();
 
-            int winNum = r.Next(0,100);
+            int winNum = r.Next(0,10);
 
             bool win = false;
 
@@ -24,7 +24,7 @@ namespace NumberGuessingGame
 
             do
             {
-                    Console.WriteLine("Guess a Number inbetween 0 and 100...");
+                    Console.WriteLine("Guess a Number inbetween 0 and 10...");
 
                     string? s = Console.ReadLine();
 
