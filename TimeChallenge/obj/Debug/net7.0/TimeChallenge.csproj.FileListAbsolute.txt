@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/bin/Debug/net7.0/TimeChallenge
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/bin/Debug/net7.0/TimeChallenge.deps.json
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/bin/Debug/net7.0/TimeChallenge.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/bin/Debug/net7.0/TimeChallenge.dll
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/bin/Debug/net7.0/TimeChallenge.pdb
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.dll
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/refint/TimeChallenge.dll
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.pdb
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/TimeChallenge.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/TimeChallenge/obj/Debug/net7.0/ref/TimeChallenge.dll
