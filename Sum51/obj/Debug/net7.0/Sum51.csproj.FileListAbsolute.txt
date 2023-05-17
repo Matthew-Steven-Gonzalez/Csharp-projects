@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/Sum51/bin/Debug/net7.0/Sum51
+/Users/muffins/CSharp/Csharp-projects/Sum51/bin/Debug/net7.0/Sum51.deps.json
+/Users/muffins/CSharp/Csharp-projects/Sum51/bin/Debug/net7.0/Sum51.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/Sum51/bin/Debug/net7.0/Sum51.dll
+/Users/muffins/CSharp/Csharp-projects/Sum51/bin/Debug/net7.0/Sum51.pdb
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.dll
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/refint/Sum51.dll
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.pdb
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/Sum51.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/Sum51/obj/Debug/net7.0/ref/Sum51.dll
