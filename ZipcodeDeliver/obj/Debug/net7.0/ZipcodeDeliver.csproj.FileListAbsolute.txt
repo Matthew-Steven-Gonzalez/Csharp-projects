@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/bin/Debug/net7.0/ZipcodeDeliver
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/bin/Debug/net7.0/ZipcodeDeliver.deps.json
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/bin/Debug/net7.0/ZipcodeDeliver.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/bin/Debug/net7.0/ZipcodeDeliver.dll
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/bin/Debug/net7.0/ZipcodeDeliver.pdb
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.dll
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/refint/ZipcodeDeliver.dll
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.pdb
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ZipcodeDeliver.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/ZipcodeDeliver/obj/Debug/net7.0/ref/ZipcodeDeliver.dll
