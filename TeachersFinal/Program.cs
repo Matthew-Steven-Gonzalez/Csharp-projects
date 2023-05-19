@@ -26,6 +26,8 @@ namespace TeachersFinal
 
             int highest = 0;
 
+            string highestStudent = "";
+
             int average = 0;
 
             for(int i = 0;i < numOfStudents;i++)
@@ -33,6 +35,7 @@ namespace TeachersFinal
                 if(int.Parse(array[i,1]) > highest)
                 {
                     highest = int.Parse(array[i,1]);
+                    highestStudent = array[i,0];
                 }
                 average += int.Parse(array[i,1]);
             }
@@ -40,7 +43,7 @@ namespace TeachersFinal
 
             Console.WriteLine("The average of the class is {0}", (average / numOfStudents));
 
-            Console.WriteLine("The highest grade in the class is a {0}",highest);
+            Console.WriteLine("The highest grade in the class is a {0} and it belongs to {1}.",highest, highestStudent);
 
         }
     }
