@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/bin/Debug/net7.0/TeachersFinal
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/bin/Debug/net7.0/TeachersFinal.deps.json
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/bin/Debug/net7.0/TeachersFinal.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/bin/Debug/net7.0/TeachersFinal.dll
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/bin/Debug/net7.0/TeachersFinal.pdb
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.dll
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/refint/TeachersFinal.dll
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.pdb
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/TeachersFinal.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/Debug/net7.0/ref/TeachersFinal.dll

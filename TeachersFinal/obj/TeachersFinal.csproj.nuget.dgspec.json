@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muffins/CSharp/Csharp-projects/MakeAChoice/MakeAChoice.csproj": {}
+    "/Users/muffins/CSharp/Csharp-projects/TeachersFinal/TeachersFinal.csproj": {}
   },
   "projects": {
-    "/Users/muffins/CSharp/Csharp-projects/MakeAChoice/MakeAChoice.csproj": {
+    "/Users/muffins/CSharp/Csharp-projects/TeachersFinal/TeachersFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/MakeAChoice/MakeAChoice.csproj",
-        "projectName": "MakeAChoice",
-        "projectPath": "/Users/muffins/CSharp/Csharp-projects/MakeAChoice/MakeAChoice.csproj",
+        "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/TeachersFinal/TeachersFinal.csproj",
+        "projectName": "TeachersFinal",
+        "projectPath": "/Users/muffins/CSharp/Csharp-projects/TeachersFinal/TeachersFinal.csproj",
         "packagesPath": "/Users/muffins/.nuget/packages/",
-        "outputPath": "/Users/muffins/CSharp/Csharp-projects/MakeAChoice/obj/",
+        "outputPath": "/Users/muffins/CSharp/Csharp-projects/TeachersFinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/muffins/.nuget/NuGet/NuGet.Config"
