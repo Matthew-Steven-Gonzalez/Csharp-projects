@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/WordGuess/bin/Debug/net7.0/WordGuess
+/Users/muffins/CSharp/Csharp-projects/WordGuess/bin/Debug/net7.0/WordGuess.deps.json
+/Users/muffins/CSharp/Csharp-projects/WordGuess/bin/Debug/net7.0/WordGuess.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/WordGuess/bin/Debug/net7.0/WordGuess.dll
+/Users/muffins/CSharp/Csharp-projects/WordGuess/bin/Debug/net7.0/WordGuess.pdb
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.dll
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/refint/WordGuess.dll
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.pdb
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/WordGuess.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/Debug/net7.0/ref/WordGuess.dll

@@ -55,6 +55,7 @@ namespace HallsOfWestWood
             Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
             Console.WriteLine(titleCard2);
             Console.WriteLine("||     A choice is to be made. Ahead of you is 2 halls.   ||");
+            Console.WriteLine(titleCard2);
             Console.WriteLine(titleCard5);
             Console.WriteLine(titleCard1);
             Console.WriteLine(titleCard2);
@@ -81,7 +82,6 @@ namespace HallsOfWestWood
             if(choice1 != null && choice1 == "right")
             {    
                 Console.WriteLine(titleCard1);
-                Console.WriteLine(titleCard3);
                 Console.WriteLine(titleCard5);
                 Console.WriteLine(titleCard2);
                 Console.WriteLine("||        You reach out for the cold steel of the         ||");
@@ -91,10 +91,11 @@ namespace HallsOfWestWood
                 if (currentPlayer.keys >= 1)
                 {
                     Console.WriteLine(titleCard1);
-                    Console.WriteLine(titleCard3);
                     Console.WriteLine(titleCard5);
                     Console.WriteLine(titleCard2);
-                    Console.WriteLine("You insert the key you found into the door and turn...You hear a click...");
+                    Console.WriteLine("||  You insert the key you found into the door and turn...||");
+                    Console.WriteLine("||         You hear a click... You are free from ...      ||");
+                    Console.WriteLine(titleCard3);
                     Console.WriteLine(titleCard2);
                     Console.WriteLine(titleCard5);
 
@@ -124,9 +125,10 @@ namespace HallsOfWestWood
                 Console.WriteLine(titleCard1);
                 Console.WriteLine(titleCard3);
                 Console.WriteLine(titleCard5);
-                Console.WriteLine(titleCard2);
-                Console.WriteLine("You slowly begin walking down the hall.");
-                Console.WriteLine("a creaking noise ahead causes the hair to raise on your neck... It's about to get hairy...");
+                Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
+                Console.WriteLine("||         You slowly begin walking down the hall.        ||");
+                Console.WriteLine("||    a creaking noise ahead causes the hair to raise on  ||");
+                Console.WriteLine("||         your neck... It's about to get hairy...        ||");
                 Console.WriteLine(titleCard2);
                 Console.WriteLine(titleCard5);
 

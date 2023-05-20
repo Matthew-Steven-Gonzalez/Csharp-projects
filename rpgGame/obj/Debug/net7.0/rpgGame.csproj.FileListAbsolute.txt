@@ -28,8 +28,8 @@
 /Users/muffins/CSharp/Csharp-projects-1/rpgGame/bin/Debug/net7.0/rpgGame.pdb
 /Users/muffins/CSharp/Csharp-projects-1/rpgGame/obj/Debug/net7.0/rpgGame.genruntimeconfig.cache
 /Users/muffins/CSharp/Csharp-projects-1/rpgGame/obj/Debug/net7.0/ref/rpgGame.dll
-C:\Users\mnome\source\repos\Matthew-Steven-Gonzalez\Csharp-projects\rpgGame\obj\Debug\net7.0\rpgGame.csproj.AssemblyReference.cache
-C:\Users\mnome\source\repos\Matthew-Steven-Gonzalez\Csharp-projects\rpgGame\obj\Debug\net7.0\rpgGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mnome\source\repos\Matthew-Steven-Gonzalez\Csharp-projects\rpgGame\obj\Debug\net7.0\rpgGame.AssemblyInfoInputs.cache
-C:\Users\mnome\source\repos\Matthew-Steven-Gonzalez\Csharp-projects\rpgGame\obj\Debug\net7.0\rpgGame.AssemblyInfo.cs
-C:\Users\mnome\source\repos\Matthew-Steven-Gonzalez\Csharp-projects\rpgGame\obj\Debug\net7.0\rpgGame.csproj.CoreCompileInputs.cache
+C:/Users/mnome/source/repos/Matthew-Steven-Gonzalez/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.csproj.AssemblyReference.cache
+C:/Users/mnome/source/repos/Matthew-Steven-Gonzalez/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mnome/source/repos/Matthew-Steven-Gonzalez/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.AssemblyInfoInputs.cache
+C:/Users/mnome/source/repos/Matthew-Steven-Gonzalez/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.AssemblyInfo.cs
+C:/Users/mnome/source/repos/Matthew-Steven-Gonzalez/Csharp-projects/rpgGame/obj/Debug/net7.0/rpgGame.csproj.CoreCompileInputs.cache

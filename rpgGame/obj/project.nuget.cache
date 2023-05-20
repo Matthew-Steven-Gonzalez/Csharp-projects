@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ex+dZQDmhzqR3EC+gsRyI0LFbXFnexHjffBHs9NB9eWsPjTc6Zbnxf+WzQhKqooxtcNXjO2qdwIajFUPszkkgQ==",
+  "dgSpecHash": "u0FAdy1uiNvekZ1ZvhSXglTvQijouRmoDdYTy9sWOnoqjyPjPaJjK1SKVHYYdlqL7FHhjKgfNtFu9XtOoFCFjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnome\\source\\repos\\Matthew-Steven-Gonzalez\\Csharp-projects\\rpgGame\\rpgGame.csproj",
+  "projectFilePath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
-      "projectName": "rpgGame",
-      "projectPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/rpgGame.csproj",
+      "projectUniqueName": "/Users/muffins/CSharp/Csharp-projects/WordGuess/WordGuess.csproj",
+      "projectName": "WordGuess",
+      "projectPath": "/Users/muffins/CSharp/Csharp-projects/WordGuess/WordGuess.csproj",
       "packagesPath": "/Users/muffins/.nuget/packages/",
-      "outputPath": "/Users/muffins/CSharp/Csharp-projects/rpgGame/obj/",
+      "outputPath": "/Users/muffins/CSharp/Csharp-projects/WordGuess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muffins/.nuget/NuGet/NuGet.Config"
