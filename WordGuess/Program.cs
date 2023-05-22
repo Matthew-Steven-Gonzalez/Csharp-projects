@@ -9,26 +9,33 @@ namespace WordGuess
     class Program
     {
         public static void Main(string[] args)
-        {
+        {           
+            Random r = new Random();
+
             string[] words = new string[]{"Cheese", "Broccoli", "Diaper", "Orange", "Car", "Taco", "Game", "Zelda", "Unicorn"};
 
-            Random r = new Random();
-            Console.WriteLine(words.Length);
-
             string choosenWord = words[r.Next(0, words.Length)];
-            Console.WriteLine(choosenWord);
+
+            bool correct = false;
+
+            string correctGuess = "";
+
+            string playerGuess = "";
+
+            string guessedWord = new string('_', chosenWord.Length);
 
             Console.WriteLine("We Have Choosen a Word.");
 
-            bool correct = false;
-            string
+            do{        
+                Console.WriteLine("|| Please guess a letter ||");
+                playerGuess = Console.ReadKey();
 
-            do{
-                for(int i = 0;i < choosenWord.Length;i++){
-                    Console.Write("*");
-                };
-                Console.ReadKey();
-                break;
+                if(guessedWord.Contains(playerGuess))
+                {
+                    
+                }
+                
+
             }while(correct == false);
 
         }
