@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/bin/Debug/net7.0/lecture49exer2
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/bin/Debug/net7.0/lecture49exer2.deps.json
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/bin/Debug/net7.0/lecture49exer2.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/bin/Debug/net7.0/lecture49exer2.dll
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/bin/Debug/net7.0/lecture49exer2.pdb
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.dll
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/refint/lecture49exer2.dll
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.pdb
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/lecture49exer2.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/lecture49exer2/obj/Debug/net7.0/ref/lecture49exer2.dll
