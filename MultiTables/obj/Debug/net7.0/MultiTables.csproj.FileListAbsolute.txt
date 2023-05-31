@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/MultiTables/bin/Debug/net7.0/MultiTables
+/Users/muffins/CSharp/Csharp-projects/MultiTables/bin/Debug/net7.0/MultiTables.deps.json
+/Users/muffins/CSharp/Csharp-projects/MultiTables/bin/Debug/net7.0/MultiTables.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/MultiTables/bin/Debug/net7.0/MultiTables.dll
+/Users/muffins/CSharp/Csharp-projects/MultiTables/bin/Debug/net7.0/MultiTables.pdb
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.dll
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/refint/MultiTables.dll
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.pdb
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/MultiTables.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/MultiTables/obj/Debug/net7.0/ref/MultiTables.dll
