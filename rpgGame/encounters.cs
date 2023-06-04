@@ -104,14 +104,14 @@ namespace HallsOfWestWood
                     Console.WriteLine(titleCard1);
                     Console.WriteLine(titleCard2);
                     Console.WriteLine("You defend yourself from the "+ n + ", however they still strike you");
-                    int enemyDamage = p/4 - Program.currentPlayer.armorValue;
+                    int enemyDamage = p/2 - Program.currentPlayer.armorValue;
                     if(enemyDamage < 0)
                     {
                         enemyDamage = 0;
                     
                     }
                     int playerDamage = rand.Next(0, Program.currentPlayer.weaponValue)/2;
-                    Console.WriteLine("You deal " + Program.currentPlayer.damage / 2 + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
+                    Console.WriteLine("You deal " + Program.currentPlayer.damage / 4 + " Damage to the "+ n+" , but recieve "+ enemyDamage + " damage.");
                     Console.WriteLine(titleCard2);
                     Console.WriteLine(titleCard1);
                     Program.currentPlayer.health -= enemyDamage;
