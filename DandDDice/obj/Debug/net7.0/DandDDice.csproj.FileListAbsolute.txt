@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/DandDDice/bin/Debug/net7.0/DandDDice
+/Users/muffins/CSharp/Csharp-projects/DandDDice/bin/Debug/net7.0/DandDDice.deps.json
+/Users/muffins/CSharp/Csharp-projects/DandDDice/bin/Debug/net7.0/DandDDice.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/DandDDice/bin/Debug/net7.0/DandDDice.dll
+/Users/muffins/CSharp/Csharp-projects/DandDDice/bin/Debug/net7.0/DandDDice.pdb
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.dll
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/refint/DandDDice.dll
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.pdb
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/DandDDice.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/DandDDice/obj/Debug/net7.0/ref/DandDDice.dll
