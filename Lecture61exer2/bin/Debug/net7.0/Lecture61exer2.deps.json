@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lecture61exer2/1.0.0": {
+        "runtime": {
+          "Lecture61exer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture61exer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
