@@ -22,7 +22,7 @@ namespace Exercise1
             area = side * side;
         }
 
-        public int side
+        public int Side
         {
             get
             {
@@ -30,7 +30,7 @@ namespace Exercise1
             }
         }
 
-        public int area
+        public int Area
         {
             get
             {

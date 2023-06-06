@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/bin/Debug/net7.0/Lecture60exer1
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/bin/Debug/net7.0/Lecture60exer1.deps.json
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/bin/Debug/net7.0/Lecture60exer1.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/bin/Debug/net7.0/Lecture60exer1.dll
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/bin/Debug/net7.0/Lecture60exer1.pdb
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.dll
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/refint/Lecture60exer1.dll
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.pdb
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/Lecture60exer1.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/Lecture60exer1/obj/Debug/net7.0/ref/Lecture60exer1.dll
