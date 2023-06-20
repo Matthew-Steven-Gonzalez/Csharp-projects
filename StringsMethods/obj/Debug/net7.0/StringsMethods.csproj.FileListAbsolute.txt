@@ -1,0 +1,15 @@
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/bin/Debug/net7.0/StringsMethods
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/bin/Debug/net7.0/StringsMethods.deps.json
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/bin/Debug/net7.0/StringsMethods.runtimeconfig.json
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/bin/Debug/net7.0/StringsMethods.dll
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/bin/Debug/net7.0/StringsMethods.pdb
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.csproj.AssemblyReference.cache
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.AssemblyInfoInputs.cache
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.AssemblyInfo.cs
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.csproj.CoreCompileInputs.cache
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.dll
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/refint/StringsMethods.dll
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.pdb
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/StringsMethods.genruntimeconfig.cache
+/Users/muffins/CSharp/Csharp-projects/StringsMethods/obj/Debug/net7.0/ref/StringsMethods.dll
