@@ -123,7 +123,6 @@ namespace HallsOfWestWood
                 Console.WriteLine(titleCard1);
                 Console.WriteLine(titleCard3);
                 Console.WriteLine(titleCard5);
-                Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
                 Console.WriteLine("||         You slowly begin walking down the hall.        ||");
                 Console.WriteLine("||    a creaking noise ahead causes the hair to raise on  ||");
                 Console.WriteLine("||         your neck... It's about to get hairy...        ||");
