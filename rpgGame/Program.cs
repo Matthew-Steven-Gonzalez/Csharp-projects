@@ -43,7 +43,6 @@ namespace HallsOfWestWood
             Console.WriteLine(titleCard3);
             Console.WriteLine(titleCard4);
             Console.WriteLine(titleCard5);
-            Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
             Console.WriteLine(titleCard2);
             Console.WriteLine("||  You awaken on the cold floor of a large banquet hall. ||");
             Console.WriteLine("||       Your head is clouded and your vison blurred.     ||");
@@ -52,7 +51,6 @@ namespace HallsOfWestWood
             Console.ReadKey();
             Console.Clear();
             Console.WriteLine(titleCard1);
-            Console.WriteLine("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
             Console.WriteLine(titleCard2);
             Console.WriteLine("||     A choice is to be made. Ahead of you is 2 halls.   ||");
             Console.WriteLine(titleCard2);
